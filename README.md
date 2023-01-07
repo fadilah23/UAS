@@ -20,11 +20,9 @@
 - Selanjutnya Buatlah file ``main.py`` dengan berisi menu yang akan ditampilkan sebagai pilihan user menggunakan perulangan ``while True`` dan berisi code program untuk menyatukan semua fungsi dengan mengimport modul ke dalam main.py
 
 Code program ``main.py`` seperti gambar dibawah ini :
+<img width="960" alt="ssmain1" src="https://user-images.githubusercontent.com/115479946/211142576-993a3b6b-6db9-4086-b6fe-7f1a73761b10.png">
 
 <img width="773" alt="ssmain" src="https://user-images.githubusercontent.com/115479946/211142557-5e99a74e-3e12-4c9e-b455-c0a4fe5ff394.png">
-
-
-<img width="960" alt="ssmain1" src="https://user-images.githubusercontent.com/115479946/211142576-993a3b6b-6db9-4086-b6fe-7f1a73761b10.png">
 
 
 - yang Kedua Buatlah database berupa dictionary beserta modul ``tambah_data`` , ``ubah_data``, ``hapus_data``, dan ``cari_data`` ke dalam ``daftar_nilai.py``
@@ -78,6 +76,6 @@ Code Program ``view_nilai.py`` seperti gambar dibawah ini :
 <img width="786" alt="ssc" src="https://user-images.githubusercontent.com/115479946/211143218-0f894a7b-3823-413d-af97-6857cc623e9f.png">
 
 
-### Keluar
+### Lihat dan Keluar
 
 <img width="789" alt="ssk" src="https://user-images.githubusercontent.com/115479946/211143232-ab25622a-91ba-49c7-a8ca-f019678af0ca.png">
