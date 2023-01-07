@@ -1,7 +1,7 @@
 #  UAS SEMESTER 1
-``Nama : Fadilah Adeliani Putri``
-``NIM  : 312210055``
-``Kelas: TI.22.B2``
+``Nama : Fadilah Adeliani Putri``</br>
+<``NIM  : 312210055``</br>
+``Kelas: TI.22.B2``</br>
 
 <b>Package dan Module untuk Menginput Data Mahasiswa</b>
 
